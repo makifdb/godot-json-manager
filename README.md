@@ -1,0 +1,1 @@
+# godot-json-manager
