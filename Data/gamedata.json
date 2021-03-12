@@ -1,0 +1,9 @@
+{
+  "player": {
+    "age": 18,
+    "name": "Mario",
+    "options": {
+      "background-color": "#751313"
+    }
+  }
+}
